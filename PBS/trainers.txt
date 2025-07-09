@@ -116,3 +116,9 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[ARCANIST_F,Vivian]
+LoseText = ...
+Pokemon = SIGILYPH, 22
+	Moves = PSYCHIC, WINGATTACK, GROWL, DOUBLETEAM 
+	

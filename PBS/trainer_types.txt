@@ -399,3 +399,17 @@ Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
+#-------------------------------
+[ARCANIST_M]
+Name = ARCANIST
+Gender = Male
+BaseMoney = 20
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ARCANIST_F]
+Name = ARCANIST
+Gender = Female
+BaseMoney = 20
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader

@@ -14601,9 +14601,9 @@ WildItemUncommon = SHEDSHELL
 #-------------------------------
 [SIGILYPH]
 Name = Sigilyph
-Types = PSYCHIC,FLYING
+Types = ARCANE,FLYING
 BaseStats = 72,58,80,97,103,80
-GenderRatio = Female50Percent
+GenderRatio = Genderless
 GrowthRate = Medium
 BaseExp = 172
 EVs = SPECIAL_ATTACK,2
@@ -14621,7 +14621,7 @@ Weight = 14.0
 Color = Black
 Shape = Winged
 Category = Avianoid
-Pokedex = The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.
+Pokedex = Recently identified to be a runic powered construct, it uses mystical powers to protect artifacts and ruins.
 Generation = 5
 #-------------------------------
 [YAMASK]
